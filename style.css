@@ -26,11 +26,47 @@ body{
     padding-left: 20px;
     border: 2px solid blue;
 }
-.all{
-    background-image: url(/gallary1.png);
-    background-size: cover;
+/* .sec-1{
+    background-image: url(/img/gallary.png);
     background-color: rgb(23,26,83);
     height: auto;
+} */
+.a1{
+    border:3px solid blue;
+    color: blue;
+    background-color: white;
+    padding: 10px 30px 10px 30px;
+    font-size: 10px;
+    border-radius: 8px;
+    position: relative;
+   
+}
+.a1:hover{
+    background-color: blue;
+    color: white;
+}
+.container{
+   padding: 5px 0px;
+    display: flex;
+    gap: 20px;
+    overflow-x: auto 
+}
+ .flow-div{
+   background-color:rgb(23,26,83);
+   background-image: url(./img/gallary.png);
+   padding: 35px 0px;
+} 
+.cd-style{
+    padding: 20px;
+    height: 160px !important;
+    width: 140px !important;
+    flex: none;
+}
+.card-img-top{
+    margin: 0px auto;
+}
+.card-content:hover{
+  transform: scale(1.1);
 }
 .data-science-1{
     background-color: white;
