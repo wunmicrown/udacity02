@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="81px" viewBox="0 0 81 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Play Button</title>
+    <g id="NDOP-R4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="NDOP-Template---Screen-1---Desktop" transform="translate(-1004.000000, -345.000000)">
+            <g id="Hero" transform="translate(0.000000, 95.000000)">
+                <g id="Hero-Artwork" transform="translate(192.546090, -202.743603)">
+                    <g id="Group-8" transform="translate(813.000000, 454.000000)">
+                        <g id="Group-3" fill="#FFFFFF" stroke="#33D1B4" stroke-width="2">
+                            <path d="M78.000312,39.000156 C78.000312,60.5391622 60.5407222,78.000312 39.000156,78.000312 C17.4611498,78.000312 0,60.5391622 0,39.000156 C0,17.4611498 17.4611498,0 39.000156,0 C60.5407222,0 78.000312,17.4611498 78.000312,39.000156" id="Fill-1"></path>
+                        </g>
+                        <path d="M49.4232159,40.2033087 L31.4619686,50.7172151 C30.8145004,51.0965475 30.000312,50.6292374 30.000312,49.8785705 L30.000312,28.9730124 C30.000312,28.2246307 30.8099327,27.7573206 31.4585428,28.1320827 L49.4186482,38.5237344 C50.0638325,38.8962114 50.0649745,39.8262614 49.4232159,40.2033087" id="Fill-4" fill="#2015FF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

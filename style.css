@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    width: 30%;
+    padding-left: 8%;
+}
+.bar-list{
+    display: flex;
+    gap: 25px;
+}
+.bar-list a{
+    color: black;
+    font-size: 18px;
+    font-weight:500 ;
+}
+.bar-list button{
+    padding-left: 20px;
+    border: 2px solid blue;
+}
+.all{
+    background-image: url(/gallary1.png);
+    background-size: cover;
+    background-color: rgb(23,26,83);
+    height: auto;
+}
+.data-science-1{
+    background-color: white;
+    width: 15%;
+    display: flex;
+    justify-content: center;
+}
+.aa{
+    text-decoration: none;
+    color: black;
+    text-align: end;
+}
+.a{
+    text-decoration: none;
+    color: black;
+    font-size: small;
+    font-weight: 400;
+    height: 50%;
+}
+.sec-6-card  h5{
+    font-size: 15px;
+    font-weight: bold;
+}
+.Sec-3{
+    background-color: rgb(240,245,255);
+    margin-top: 5%;
+}
